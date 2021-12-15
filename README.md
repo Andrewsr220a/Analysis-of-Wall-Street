@@ -1,4 +1,4 @@
-# The VBA of Wall Street
+# Evaluation of Wall Street
 
 For this assignment I used VBA scripting to analyze real stock market data. I created a script that loops through all the stocks for one year and output the following information:
 
